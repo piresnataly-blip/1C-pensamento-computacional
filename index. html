@@ -5,3 +5,16 @@
 <p>parágrafo sobre </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igl8n_MwtQ4?si=epoQ0Z--ozSXPdwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
+<html lang="pt-BR>
+<head>
+<link rel="stylesheet" href="style.css">
+ <title>Barbie desenho</title>
+</head>
+<body>
+ <header>Barbie desenho</header>
+ <section>
+  <div>
+      <h1>Festa do pijama do terror</h1>
+      <p>#desenho</p>
+   </div>
+
