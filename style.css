@@ -10,5 +10,15 @@ header{
    font-size: 32px;
    color: white;
 }
+section{
+  background:
+  padding-bottom:
+  padding-top:
+  display:flex;
+  justify-content: center;
+}
+.chamada-texto{
+   margin-right:
+}
   
   
