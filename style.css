@@ -1,14 +1,14 @@
 body{
-  color: 
-  background:
+  color: pink; 
+  background: black;
   margin:0px;
 }
 
 header{
-  border-bottom: solid 2px 
+  border-bottom: solid 2px green;
   padding: 20px;
    font-size: 32px;
-   color:
+   color: white;
 }
   
   
