@@ -20,10 +20,10 @@
 <section class="categoria">
  <h2>Filmes e séries</h2>
  <div class="categoria-videos">
- <a href="link do vídeos">
+ <a href=https://www.youtube.com/watch?v=JNddzC2O1Ng>
  </a>
 <a href= "link do vídeo">
-  <img src="link da imagem">
+  <img src="https://img.youtube.com/vi/p3foJ-Wu6lM/maxresdefault.jpg">
  </a>
     </div>
 </section>
